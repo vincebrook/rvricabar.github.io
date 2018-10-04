@@ -1,1 +1,1 @@
-https://rvricabar.github.io
+rvricabar.github.io
